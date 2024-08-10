@@ -1,8 +1,8 @@
 {
-    "id": "plugin-template",
-    "name": "",
-    "version": "0.0.0",
-    "minAppVersion": "",
+    "id": "maps",
+    "name": "Fantasy Maps",
+    "version": "0.0.1",
+    "minAppVersion": "1.5.7",
     "author": "Jeremy Valentine",
     "description": "",
     "authorUrl": "",

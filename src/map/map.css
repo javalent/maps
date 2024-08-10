@@ -1,0 +1,5 @@
+@import "src/../node_modules/@deck.gl/widgets/dist/stylesheet.css";
+
+.maps-plugin.rendered-map {
+    position: relative;
+}
